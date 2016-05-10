@@ -1,7 +1,7 @@
 name: Mathew Trojanowski
 favicon: null
-layout_spectrum: 0.4340416786726564
-typography_spectrum: 0.9109672349877656
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8177481123711914
-  lightness: 0.9903984386473894
-  saturation: 0.9019164780620486
-  rhythmicContrast: 0.5519227432087064
+    - '#edf6fb'
+    - '#040a18'
+    - '#91c8ef'
+    - '#595a6f'
+    - '#46a4da'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
