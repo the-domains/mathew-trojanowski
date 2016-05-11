@@ -1,20 +1,15 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Hello, Welcome to my personal website!'
-datePublished: '2016-05-10T16:57:24.607Z'
-dateModified: '2016-05-10T16:57:09.098Z'
-title: ''
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-11T00:57:44.175Z'
+datePublished: '2016-05-11T00:58:08.085Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: Hello World
+description: 'Hello, Welcome to my personal website!'
+author: []
 starred: true
 sourcePath: _posts/2016-05-10-hello-welcome-to-my-personal-website.md
 url: hello-welcome-to-my-personal-website/index.html
