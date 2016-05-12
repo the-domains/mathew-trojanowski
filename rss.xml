@@ -4,7 +4,7 @@
         <description><![CDATA[Mathew Trojanowski]]></description>
         <link>https://thegrid.ai/mathew-trojanowski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 06:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 00:32:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mathew-trojanowski/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mathew-trojanowski/hello-welcome-to-my-personal-website/index.html</link>
             <guid isPermaLink="false">b30c0018-20fc-43e3-ab62-60d82bdbdf1e</guid>
             <pubDate>Wed, 11 May 2016 06:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About me]]></title>
-            <description><![CDATA[<p>About me!</p>]]></description>
-            <link>https://thegrid.ai/mathew-trojanowski/about-me/index.html</link>
-            <guid isPermaLink="false">a39b1024-b32d-4ef5-90a6-d4923e91d881</guid>
-            <pubDate>Wed, 11 May 2016 06:46:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
