@@ -16,12 +16,13 @@ keywords:
   - prevreproduction
   - origami
 description: 'SpaceX has come a very long way. This company who just in the last few years has become a huge talking point with people in the space community. They have made huge progress in space travel and technology for today and the future. With the last few launches being a failure and a learning process for this U.S.A based company they have landed three rockets on a floating barge in the middle of the ocean which is the first ever done in history. Congrats SpaceX!'
-datePublished: '2016-05-16T12:18:11.265Z'
-dateModified: '2016-05-16T12:17:45.419Z'
+datePublished: '2016-05-16T12:26:17.359Z'
+dateModified: '2016-05-16T12:25:48.267Z'
 author: []
 related: []
 app_links: []
 title: "Watch SpaceX's Barge Landing In This Breathtaking 360 Video"
+sourcePath: _posts/2016-05-16-watch-spacexs-barge-landing-in-this-breathtaking-360-video.md
 authors: []
 publisher:
   name: IFLScience
@@ -29,7 +30,6 @@ publisher:
   url: 'http://www.iflscience.com'
   favicon: 'http://www.iflscience.com/profiles/ifls_profile/themes/ifls_desktop/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-16-watch-spacexs-barge-landing-in-this-breathtaking-360-video.md
 _context: 'http://schema.org'
 _type: MediaObject
 
