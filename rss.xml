@@ -2,17 +2,10 @@
     <channel>
         <title><![CDATA[Mathew Trojanowski]]></title>
         <description><![CDATA[Mathew Trojanowski]]></description>
-        <link>https://thegrid.ai/mathew-trojanowski/</link>
+        <link>http://mathewtrojanowski.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 11:17:41 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mathew-trojanowski/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[New to coding? But want to stary making games?]]></title>
-            <description><![CDATA[<article><h1>New to coding? But want to stary making games?</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12c599a3-3747-4c6c-a64a-2ea22262ce61.jpg"></article>]]></description>
-            <link> http://flip.it/zxlQT</link>
-            <guid isPermaLink="false">76c49d35-7af2-400e-bc11-bf20cf922742</guid>
-            <pubDate>Thu, 12 May 2016 11:16:57 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 16 May 2016 01:05:51 GMT</lastBuildDate>
+        <atom:link href="http://mathewtrojanowski.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[SpaceX suites to be Hero like]]></title>
             <description><![CDATA[<article><h1>SpaceX suites to be Hero like</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acf67770f5897044eb31056e9d645b131078a820.jpg"></article>]]></description>
@@ -23,7 +16,7 @@
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<p>Hello, Welcome to my personal website!</p>]]></description>
-            <link>https://thegrid.ai/mathew-trojanowski/hello-welcome-to-my-personal-website/index.html</link>
+            <link>http://mathewtrojanowski.com/hello-welcome-to-my-personal-website/index.html</link>
             <guid isPermaLink="false">b30c0018-20fc-43e3-ab62-60d82bdbdf1e</guid>
             <pubDate>Wed, 11 May 2016 06:49:01 GMT</pubDate>
         </item>
