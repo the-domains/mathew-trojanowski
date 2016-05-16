@@ -14,9 +14,9 @@ keywords:
   - '2016'
   - playing
   - origin
-description: 'Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.'
-datePublished: '2016-05-16T03:42:54.767Z'
-dateModified: '2016-05-16T03:31:57.448Z'
+description: ''
+datePublished: '2016-05-16T03:46:04.733Z'
+dateModified: '2016-05-16T03:45:50.889Z'
 author:
   - name: ''
     url: ''
@@ -37,5 +37,4 @@ _type: MediaObject
 
 ---
 ## Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield fan since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!
-
-<article style=""><h1>Battlefield 1 is Coming October 2016</h1><p>Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5171a1d7a1e78658658c4455093cbd6b44ef4e6b.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad26964f-c2c4-4365-9063-743cc7a4f266.jpg)
