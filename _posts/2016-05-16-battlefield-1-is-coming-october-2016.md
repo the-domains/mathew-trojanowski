@@ -14,15 +14,15 @@ keywords:
   - '2016'
   - playing
   - origin
-description: "Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!"
-datePublished: '2016-05-16T02:06:21.102Z'
-dateModified: '2016-05-16T02:06:05.540Z'
+description: 'Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.'
+datePublished: '2016-05-16T02:08:20.439Z'
+dateModified: '2016-05-16T02:08:12.089Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: Battlefield 1 is Coming October 2016
+title: "Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!"
 sourcePath: _posts/2016-05-16-battlefield-1-is-coming-october-2016.md
 authors: []
 publisher:
@@ -36,6 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!
+## Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!
 
 <article style=""><h1>Battlefield 1 is Coming October 2016</h1><p>Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5171a1d7a1e78658658c4455093cbd6b44ef4e6b.jpg" /></article>
