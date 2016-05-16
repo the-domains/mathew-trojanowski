@@ -15,14 +15,14 @@ keywords:
   - playing
   - origin
 description: 'Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.'
-datePublished: '2016-05-16T03:15:50.624Z'
-dateModified: '2016-05-16T03:15:46.723Z'
+datePublished: '2016-05-16T03:21:17.442Z'
+dateModified: '2016-05-16T03:20:48.216Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: "Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!"
+title: "Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield fan since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!"
 sourcePath: _posts/2016-05-16-battlefield-1-is-coming-october-2016.md
 authors: []
 publisher:
@@ -36,6 +36,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!
+## Hey guys, I cant't even begin to explain how excited I am for Battlefield 1 to be coming out. I have been a huge Battlefield fan since Battlefield 3 until I had a falling out of the series in the coming years with it getting really future like. I am glad to see a game go back to the WWI era!
 
 <article style=""><h1>Battlefield 1 is Coming October 2016</h1><p>Battlefield 1! You look into the distance and see planes torn apart by gunfire, their debris raining down over London.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5171a1d7a1e78658658c4455093cbd6b44ef4e6b.jpg" /></article>
