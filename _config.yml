@@ -1,5 +1,11 @@
+name: Mathew Trojanowski
 layout_spectrum: 0.8067093635909259
 typography_spectrum: 0.0888400673866272
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#85DB18'
@@ -11,23 +17,15 @@ color:
   lightness: 0.19737722328864038
   saturation: 0.8856010583695024
   rhythmicContrast: 0.23477882985025644
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Mathew Trojanowski
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+title: 'Science,Tech,Games,Food'
+author:
+  name: Mathew Trojanowski
+  url: ''
+  email: mathewtrojanowski@live.com
+content_rating:
+  adult: false
 navigation:
   - name: SpaceX
     id: 14768630-8c0e-468f-a19e-bc544d479e91
     type: content
-favicon: null
-title: 'Science,Tech,Games'
-purpose: []
