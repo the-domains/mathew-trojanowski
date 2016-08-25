@@ -1,20 +1,4 @@
-name: Mathew Trojanowski
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.91888
-title: 'Science,Tech,Games'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#7696ad'
@@ -26,4 +10,24 @@ color:
   lightness: 0
   saturation: 0
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Mathew Trojanowski
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: SpaceX
+    id: 14768630-8c0e-468f-a19e-bc544d479e91
+    type: content
+favicon: null
+title: 'Science,Tech,Games'
 purpose: []
