@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-28T10:18:44.360Z'
+datePublished: '2016-08-28T10:39:13.607Z'
 sourcePath: _posts/2016-05-16-photo-taken-of-reno-nevada.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-28T10:18:43.756Z'
+dateModified: '2016-08-28T10:39:12.825Z'
 title: 'Reno, Nevada'
 publisher: {}
 description: 'Photo of Reno, Nevada'
@@ -15,7 +15,7 @@ inLanguage: null
 inNav: true
 starred: false
 url: photo-taken-of-reno-nevada/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Reno, Nevada
