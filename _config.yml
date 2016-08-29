@@ -1,21 +1,23 @@
-typography_spectrum: 0.0888400673866272
-content_rating:
-  adult: false
+layout_spectrum: 0.09142873459495604
+typography_spectrum: 0.41576794628053904
 color:
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  brandStrength: 0.9471079055219889
-  lightness: 0.19737722328864038
-  saturation: 0.8856010583695024
-  rhythmicContrast: 0.23477882985025644
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.47219714522361755
+  lightness: 0.7303652595728636
+  saturation: 0.5556620471179485
+  rhythmicContrast: 0.5488625238649547
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.8067093635909259
 analytics: {}
 author:
   name: Mathew Trojanowski
