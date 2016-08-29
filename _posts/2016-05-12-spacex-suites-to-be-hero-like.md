@@ -1,26 +1,22 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.cnet.com/news/spacex-suits-to-be-designed-by-x-men-costume-creator/'
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-16T10:14:44.692Z'
-dateModified: '2016-05-16T10:14:30.301Z'
-title: SpaceX suites to be Hero like
-author: []
+datePublished: '2016-08-28T10:46:09.938Z'
 sourcePath: _posts/2016-05-12-spacex-suites-to-be-hero-like.md
+inFeed: true
+isBasedOnUrl: 'http://www.cnet.com/news/spacex-suits-to-be-designed-by-x-men-costume-creator/'
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-28T10:46:09.443Z'
+title: SpaceX suites to be Hero like
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf1aa10d-7540-44f0-b888-e479c681360b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a13285fb-e5ff-4543-af0b-82e64380d263.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acf67770f5897044eb31056e9d645b131078a820.jpg)
