@@ -1,6 +1,5 @@
-typography_spectrum: 0.2737515652552247
-content_rating:
-  adult: false
+layout_spectrum: 0.1468788180500269
+typography_spectrum: 0.18304223218001425
 color:
   brandColors:
     - '#2E0927'
@@ -12,11 +11,12 @@ color:
   lightness: 0.3772141020745039
   saturation: 0.26831840141676366
   rhythmicContrast: 0.7429358691442758
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
   image: null
-layout_spectrum: 0.458704678574577
 analytics: {}
 author:
   name: Mathew Trojanowski
