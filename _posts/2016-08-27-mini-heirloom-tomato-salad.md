@@ -1,22 +1,23 @@
 ---
-datePublished: '2016-08-28T22:28:41.171Z'
+datePublished: '2016-08-28T22:31:30.491Z'
 sourcePath: _posts/2016-08-27-mini-heirloom-tomato-salad.md
 inFeed: true
+authors: []
+hasPage: true
+keywords: []
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-28T22:28:14.597Z'
+dateModified: '2016-08-28T22:31:29.855Z'
 title: Mini heirloom tomato salad.
 publisher: {}
 at__context: 'http://schema.org'
 description: Mini heirloom tomato salad on toasted bread.
-hasPage: false
-inNav: false
 inLanguage: null
-keywords: []
-authors: []
+inNav: false
 starred: true
-_type: Blurb
+url: mini-heirloom-tomato-salad/index.html
+_type: Article
 
 ---
 # Mini heirloom tomato salad.
